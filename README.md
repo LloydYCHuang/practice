@@ -9,5 +9,6 @@ First day: 2021/07/09, I don't know anything <br/>
 用esc底下的反引號可以變成code  
 兩個空格再enter可以換行，或是用html的寫法
 >這是引用方式
->>這也是引用方式
+>>這也是引用方式  
 超連結也都可以  
+[文字內容](https://www.youtube.com/)

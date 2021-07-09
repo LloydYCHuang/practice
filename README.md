@@ -6,6 +6,5 @@ First day: 2021/07/09, I don't know anything <br/>
 # 這樣可以粗體
 *強調*
 `code`
-    code
-    code
-I don't know
+用esc底下的反引號可以變成code  
+兩個空格再enter可以換行
